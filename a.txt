@@ -8,3 +8,5 @@ git reset --hard HEAD^
 git reflog
 git reset --hard 5098fo
 git checkout --file
+
+123412341234
